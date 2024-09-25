@@ -28,4 +28,4 @@ O design é simples, utilizando CSS inline diretamente no arquivo HTML, com foco
 
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/Ivalglei/Engenharia_Software_3_Estudo_Dirigido.git)
